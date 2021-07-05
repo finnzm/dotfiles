@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = finn.zm@gmail.com
+	name = Finn zurMühlen
